@@ -1,0 +1,59 @@
+.flex {
+    display: flex;
+    margin-left: 5%;
+    border: 1px solid black;
+    margin-right: 5%;
+    margin-bottom: 10%;
+    
+  }
+  .contact {
+    margin-left: 20%;
+    margin-top: 5%;
+    padding: 1%;
+    }
+  .cantainer {
+    margin-left: 10%;
+    border: 1px solid black;
+    
+  }
+  .event {
+    margin-left: 55%;
+  }
+  .even {
+    margin-left: 50%;
+  }
+  .image {
+    margin-left: 6%;
+    margin-top: 7%;
+    margin-bottom: 7%;
+  }
+  .button {
+   margin-left: -15%;
+   width: 100px;
+  }
+
+  .buttons {
+    margin-left: 15%;
+    width: 100px;
+   }
+ 
+  .one {
+    padding: 5%;
+  }
+
+  #number{
+    padding-right: 15%;
+  }
+  .phn{
+    margin-left: -7.5%;
+  }
+
+  .seat{
+    margin-left: -24%;
+  }
+
+  .attenance{
+    margin-left: -32%;
+  }
+
+  
